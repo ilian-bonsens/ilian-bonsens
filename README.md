@@ -14,6 +14,6 @@ Bienvenue sur mon GitHub ! Je suis Ilian, un jeune passionné d'informatique de 
 
 ## Contact
 
-- 📧 Email de l'école : [ilian.bonsens@laplateforme.io](mailto:ilian.bonsens@laplateforme.io)
+- 📧 Email scolaire : [ilian.bonsens@laplateforme.io](mailto:ilian.bonsens@laplateforme.io)
 - 📧 Email professionnel : [ilian.bonsens@gmail.com](mailto:ilian.bonsens@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ilian-bonsens-997916237/)
